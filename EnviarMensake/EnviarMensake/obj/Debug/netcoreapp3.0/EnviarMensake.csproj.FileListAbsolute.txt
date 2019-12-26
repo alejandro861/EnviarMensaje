@@ -1,0 +1,11 @@
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\obj\Debug\netcoreapp3.0\EnviarMensake.csprojAssemblyReference.cache
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\obj\Debug\netcoreapp3.0\EnviarMensake.AssemblyInfoInputs.cache
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\obj\Debug\netcoreapp3.0\EnviarMensake.AssemblyInfo.cs
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\bin\Debug\netcoreapp3.0\EnviarMensake.exe
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\bin\Debug\netcoreapp3.0\EnviarMensake.deps.json
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\bin\Debug\netcoreapp3.0\EnviarMensake.runtimeconfig.json
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\bin\Debug\netcoreapp3.0\EnviarMensake.runtimeconfig.dev.json
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\bin\Debug\netcoreapp3.0\EnviarMensake.dll
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\bin\Debug\netcoreapp3.0\EnviarMensake.pdb
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\obj\Debug\netcoreapp3.0\EnviarMensake.dll
+C:\Users\gmale\OneDrive\Escritorio\Proyecto\EnviarMensaje\EnviarMensake\EnviarMensake\obj\Debug\netcoreapp3.0\EnviarMensake.pdb
